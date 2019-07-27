@@ -1,0 +1,30 @@
+
+		body {
+			font-family:"Times New Roman",serif;
+			font-weight:bolder;
+ 			background:no-repeat; 
+ 			background-position:top-right;
+ 			background-color:rgb(11,111,111);
+ 			background-attachment:fixed; 
+ 			background-size:cover; 
+
+
+ 		  }
+ 		  p{
+ 		  	/*text-shadow:1.5px 1.5px #fff;*/
+ 		  	/*letter-spacing:0.5px;
+ 		  	line-height:4px;*/
+
+ 		  }
+ 		  a{
+ 		  	color:white;
+ 		  text-decoration:none;
+ 		  	
+ 		  }
+ 		  .ab{
+ 		  	
+ 		  	letter-spacing: 2px;
+ 		  	background-color:#4CAF50;
+ 		  	
+			font-size:20pt;
+ 		  	}
